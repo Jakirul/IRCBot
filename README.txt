@@ -1,0 +1,1 @@
+Put Main.java and the textfile.txt into the src folder
